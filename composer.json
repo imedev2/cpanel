@@ -1,0 +1,11 @@
+{
+    "name": "imedev2/cpanel",
+    "authors": [
+        {
+            "name": "imedev2",
+            "email": "fatima@5w2h.biz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
